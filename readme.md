@@ -1,3 +1,3 @@
-#Git and Github practice
+# PRACTICE GIT
 
-Pratice is important
+Practice is very important
